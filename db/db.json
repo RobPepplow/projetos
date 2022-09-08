@@ -1,0 +1,51 @@
+{
+  "usuarios": [],
+  "contabilidade": [
+    {
+      "cnpj_cont": "00.000.000/0001-91",
+      "razao_social_cont": "banco do brasil sa",
+      "nome_fantasia_cont": "banco brasil",
+      "fone_cont": "41998102337",
+      "email_cont": "robsonpepplow@gmail.com",
+      "id": 1
+    },
+    {
+      "cnpj_cont": "51.174.001/0001-93",
+      "razao_social_cont": "hemerson ltda",
+      "nome_fantasia_cont": "g3",
+      "fone_cont": "41999999999",
+      "email_cont": "hemerson@gmai.com",
+      "id": 2
+    }
+  ],
+  "departamento": [],
+  "usuarioTipo": [
+    {
+      "id": 1,
+      "tipo": "Administrador"
+    },
+    {
+      "id": 2,
+      "tipo": "Gerente"
+    },
+    {
+      "id": 3,
+      "tipo": "Colaborador"
+    }
+  ],
+  "empresas": [],
+  "permissoes": [],
+  "Filial_Matriz": {
+    "tipoEmpresas":[
+    
+        {
+          "id": 1,
+          "Tipo": "Matriz"
+        },
+        {
+          "id": 2,
+          "Tipo": "Filial"
+        }
+      ]
+  }
+}

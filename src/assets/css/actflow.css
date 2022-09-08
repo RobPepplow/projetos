@@ -1,0 +1,41 @@
+:root {
+  --primary-color: #bd153d;
+  --secondary-color: #f09445;
+  --accent-color: #f2f2f2;
+}
+
+
+.actflow-primary {
+    background-color: var(--primary-color);
+}
+
+.actflow-secondary {
+  background-color: var(--secondary-color);
+}
+
+.actflow-accent {
+  background-color: var(--accent-color);
+}
+
+.actflow-icon-topbar {
+  text-decoration-color: var(--primary-color);
+}
+
+/**
+ Menu
+*/
+a .actflow-icon-button:hover{
+    opacity: 0.1;
+}
+
+.actflow-link-menu {
+  text-decoration: none;  
+}
+
+.actflow-icon-menu {
+    text-decoration: none;
+}
+
+.actflow-icon-menu:hover {
+    opacity: 0.9;
+}
